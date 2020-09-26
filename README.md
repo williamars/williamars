@@ -1,16 +1,24 @@
-### Hi there 👋
+# William Silva 👨‍💻
+<p align="center">
+  <p align="center">
+    This is my GitHub 🤗
+  </p>
+  <p align="center">
+  <img align="center" src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width="700" />
+  </p>
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/williamars/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
+  <a href="https://www.github.com/williamars/"><img src="https://img.shields.io/badge/-Github-black?style=flat&logo=Github&logoColor=white"></a>
+</p>
+<hr />
 
-<!--
-**williamars/williamars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+- 🌆 19 years old. Living in São Paulo-SP
+- 👨‍🎓 Computer Engineering Student - [Insper](http://www.insper.edu.br/)
+- 🌱 I’m currently learning MySQL, developing some things in Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=williamars&show_icons=true&theme=onedark" width="500" height="250" />
+<p>
