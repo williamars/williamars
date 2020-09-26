@@ -11,7 +11,6 @@
   <a href="https://www.linkedin.com/in/williamars/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
   <a href="https://www.github.com/williamars/"><img src="https://img.shields.io/badge/-Github-black?style=flat&logo=Github&logoColor=white"></a>
 </p>
-<hr />
 
 ## About me
 
