@@ -16,7 +16,7 @@
 
 - 🌆 19 years old. Living in São Paulo-SP
 - 👨‍🎓 Computer Engineering Student - [Insper](http://www.insper.edu.br/)
-- 🌱 I’m currently learning MySQL, developing some things in Python
+- 🌱 I’m currently learning Node.js, developing some things in Python and React too.
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=williamars&show_icons=true&theme=onedark" width="500" height="250" />
